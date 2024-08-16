@@ -1,0 +1,1 @@
+Khi chạy, đầu tiên chạy API trước rồi chạy ứng dụng Flutter sau, trên ứng dụng Flutter khi chạy sẽ có 1 ô nhập URL, bạn cần nhập URL vào rồi nhấn nút mở tất cả trình duyệt hay đóng tất cả các trình duyệt
