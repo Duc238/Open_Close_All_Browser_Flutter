@@ -1,0 +1,64 @@
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\bin\Debug\net8.0\appsettings.Development.json
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\bin\Debug\net8.0\appsettings.json
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\bin\Debug\net8.0\API.exe
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\bin\Debug\net8.0\API.deps.json
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\bin\Debug\net8.0\API.runtimeconfig.json
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\bin\Debug\net8.0\API.dll
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\bin\Debug\net8.0\API.pdb
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\API.csproj.Up2Date
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\API.dll
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\refint\API.dll
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\API.pdb
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+E:\Lập trình\ASP.NET Core\Open_Close Browser\API\API\obj\Debug\net8.0\ref\API.dll
+E:\Lập trình\Flutter\Open_Close Browser\API\API\bin\Debug\net8.0\appsettings.Development.json
+E:\Lập trình\Flutter\Open_Close Browser\API\API\bin\Debug\net8.0\appsettings.json
+E:\Lập trình\Flutter\Open_Close Browser\API\API\bin\Debug\net8.0\API.exe
+E:\Lập trình\Flutter\Open_Close Browser\API\API\bin\Debug\net8.0\API.deps.json
+E:\Lập trình\Flutter\Open_Close Browser\API\API\bin\Debug\net8.0\API.runtimeconfig.json
+E:\Lập trình\Flutter\Open_Close Browser\API\API\bin\Debug\net8.0\API.dll
+E:\Lập trình\Flutter\Open_Close Browser\API\API\bin\Debug\net8.0\API.pdb
+E:\Lập trình\Flutter\Open_Close Browser\API\API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Lập trình\Flutter\Open_Close Browser\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Lập trình\Flutter\Open_Close Browser\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Lập trình\Flutter\Open_Close Browser\API\API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\API.csproj.AssemblyReference.cache
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\API.AssemblyInfoInputs.cache
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\API.AssemblyInfo.cs
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\API.csproj.CoreCompileInputs.cache
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\staticwebassets.build.json
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\staticwebassets.development.json
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\staticwebassets\msbuild.build.API.props
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API.props
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\scopedcss\bundle\API.styles.css
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\API.csproj.Up2Date
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\API.dll
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\refint\API.dll
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\API.pdb
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\API.genruntimeconfig.cache
+E:\Lập trình\Flutter\Open_Close Browser\API\API\obj\Debug\net8.0\ref\API.dll
